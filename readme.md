@@ -15,4 +15,4 @@ Foi criado além dessas funcionalidas:
 
 ## Visualização da tela
 
-![Homepage image]("images/tela.jpeg")
+![Homepage image](images/tela.jpeg)
